@@ -1,0 +1,8 @@
+// Vim temporary file
+*~
+// Eagle board temporary file
+*.b#
+// Eagle schematic temporary file
+*.s#
+// Eagle preferences file
+*.epf
